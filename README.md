@@ -1,2 +1,2 @@
-# Enhansed-SJF
-Enhansed SJF
+# Enhanced-SJF
+Enhanced SJF
